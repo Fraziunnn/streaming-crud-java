@@ -25,3 +25,7 @@ Projeto de integração Java com MongoDB Atlas e Redis.
 - Adicione os jars no Build Path do Eclipse.
 - Substitua <usuario> e <senha> na string de conexão.
 - Execute como Java Application.
+
+### Link do vídeo
+
+https://youtu.be/ErI4tK0HuHQ
